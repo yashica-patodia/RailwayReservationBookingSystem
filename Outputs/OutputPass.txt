@@ -1,0 +1,86 @@
+----------------Booking Application Testing--------------------------------------
+BOOKING SUCCEEDED
+PNR Number = 1
+Date of Reservation = 3/Mar/2021
+ Date of Booking= 4/May/2021
+Booking Class = AC3Tier
+From Station = Mumbai
+To Station = Kolkata
+        : Comfort: AC
+        : Mode: Sleeping
+        : Luxury: No
+        : Bunks: 3
+Travel Category = General
+Fare = 2558
+
+BOOKING SUCCEEDED
+PNR Number = 2
+Date of Reservation = 3/Mar/2021
+ Date of Booking= 4/May/2021
+Booking Class = AC2Tier
+From Station = Delhi
+To Station = Mumbai
+        : Comfort: AC
+        : Mode: Sleeping
+        : Luxury: No
+        : Bunks: 2
+Travel Category = Ladies
+Fare = 2944
+
+BOOKING SUCCEEDED
+PNR Number = 3
+Date of Reservation = 3/Mar/2021
+ Date of Booking= 4/May/2021
+Booking Class = FirstClass
+From Station = Kolkata
+To Station = Chennai
+        : Comfort: Non-AC
+        : Mode: Sleeping
+        : Luxury: Yes
+        : Bunks: 2
+Travel Category = Senior Citizen
+Fare = 1543
+
+BOOKING SUCCEEDED
+PNR Number = 4
+Date of Reservation = 3/Mar/2021
+ Date of Booking= 4/May/2021
+Booking Class = ACFirstClass
+From Station = Bangalore
+To Station = Delhi
+        : Comfort: AC
+        : Mode: Sleeping
+        : Luxury: Yes
+        : Bunks: 2
+Travel Category = Divyaangjan
+Fare = 3554
+
+BOOKING SUCCEEDED
+PNR Number = 5
+Date of Reservation = 3/Mar/2021
+ Date of Booking= 3/Mar/2021
+Booking Class = ExecutiveChairCar
+From Station = Kolkata
+To Station = Bangalore
+        : Comfort: AC
+        : Mode: Sitting
+        : Luxury: Yes
+        : Bunks: 0
+Travel Category = Tatkal
+Fare = 5238
+
+BOOKING SUCCEEDED
+PNR Number = 6
+Date of Reservation = 3/Mar/2021
+ Date of Booking= 3/Mar/2021
+Booking Class = Sleeper
+From Station = Mumbai
+To Station = Chennai
+        : Comfort: Non-AC
+        : Mode: Sleeping
+        : Luxury: No
+        : Bunks: 3
+Travel Category = Premium Tatkal
+Fare = 1089
+
+----------------Booking Application Testing Ends---------------------------------

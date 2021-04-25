@@ -1,0 +1,52 @@
+
+Negative Test Cases
+---------------------------------------------------------------------------
+Booking Station invalid
+Booking Category invalid
+Station invalid
+BOOKING FAILED
+PNR Number = 7
+Date of Reservation = 2/Mar/2021
+ Date of Booking= 4/May/2021
+Booking Class = SecondSitting
+From Station = Mumbai
+To Station = Hyderabad
+        : Comfort: Non-AC
+        : Mode: Sitting
+        : Luxury: No
+        : Bunks: 0
+Travel Category = Senior Citizen
+Fare = 15
+
+Booking to same station not possible
+Booking Category invalid
+Distance between same station not stored
+BOOKING FAILED
+PNR Number = 8
+Date of Reservation = 2/Mar/2021
+ Date of Booking= 4/Sep/2021
+Booking Class = AC3Tier
+From Station = Mumbai
+To Station = Mumbai
+        : Comfort: AC
+        : Mode: Sleeping
+        : Luxury: No
+        : Bunks: 3
+Travel Category = Ladies
+Fare = 40
+
+Booking Date Invalid
+BOOKING FAILED:
+ Booking Date Invalid
+PNR Number = 9
+Date of Reservation = 2/Mar/2021
+ Date of Booking= 4/Feb/2021
+Booking Class = ACChairCar
+From Station = Kolkata
+To Station = Mumbai
+        : Comfort: AC
+        : Mode: Sitting
+        : Luxury: No
+        : Bunks: 0
+Travel Category = Senior Citizen
+Fare = 1248
